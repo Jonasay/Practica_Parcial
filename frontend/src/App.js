@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './App.css';
 
 const API_URL = 'https://practica-parcial-shel.onrender.com';
 
